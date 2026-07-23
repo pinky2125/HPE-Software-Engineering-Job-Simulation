@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.restservice.RestServiceApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-07-23T14:37:17.157Z" hostname="LAPTOP-QD4IEF5D" time="1.91">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.restservice.RestServiceApplicationTests" time="0.517"/>
+  <system-out><![CDATA[20:07:17.313 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.restservice.RestServiceApplicationTests]: RestServiceApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:07:17.403 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.restservice.RestServiceApplication for test class com.example.restservice.RestServiceApplicationTests
+20:07:17.474 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.restservice.RestServiceApplicationTests]: RestServiceApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:07:17.475 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.restservice.RestServiceApplication for test class com.example.restservice.RestServiceApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.7)
+
+2026-07-23T20:07:17.730+05:30  INFO 21556 --- [    Test worker] c.e.r.RestServiceApplicationTests        : Starting RestServiceApplicationTests using Java 17.0.18 with PID 21556 (started by Admin in E:\gs-rest-service-main\initial)
+2026-07-23T20:07:17.732+05:30  INFO 21556 --- [    Test worker] c.e.r.RestServiceApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2026-07-23T20:07:18.539+05:30  INFO 21556 --- [    Test worker] c.e.r.RestServiceApplicationTests        : Started RestServiceApplicationTests in 1.019 seconds (process running for 2.203)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
