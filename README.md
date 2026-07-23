@@ -110,6 +110,6 @@ This project was completed as part of the **Hewlett Packard Enterprise Software 
 
 ## 👩‍💻 Author
 
-**Vaishnavi Patil**
+**RESHMA PAL**
 
 GitHub: https://github.com/pinky2125
